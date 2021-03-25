@@ -19,6 +19,7 @@ greenlet while the Python main thread runs other greenlets in parallel.
 
 See also the `aioeventlet project <http://aioeventlet.readthedocs.org/>`_.
 
+https://github.com/gevent/gevent/issues/982
 
 Hello World
 ===========
